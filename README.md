@@ -13,7 +13,7 @@ Este é um aplicativo de controle de gastos desenvolvido em React, que permite a
 
 **⚙️Definição de Ferramentas**
 
--Visual Studio Code(React, Html, JavaScript)
--GitHub
--Netlify
+- Visual Studio Code(React, Html, JavaScript)
+- GitHub
+- Netlify
 
